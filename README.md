@@ -89,7 +89,7 @@ description: 本文涵盖了通俗易懂的区块链概念、运作方式、特�
 
 传统的客户端-服务器模式就是一个很好的例子：
 
-![](https://ethereum.cn/wp-content/uploads/2019/06/clientserver.jpg)
+![](.gitbook/assets/clientserver.jpg)
 
 当人们尝试在搜索引擎中搜索内容时，你会向服务器发送查询，然后服务器再反馈相关信息。这就是简单的客户端-服务器模式。
 
