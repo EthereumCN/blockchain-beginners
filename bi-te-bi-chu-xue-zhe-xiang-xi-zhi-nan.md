@@ -26,9 +26,7 @@ description: 2019年比特币频上热搜，开始走进主流人群的视线，
 
 **（截至2019年7月8日）**
 
-![](https://ethereum.cn/wp-content/uploads/2019/07/btc-metrics.png)
-
-####  
+![](.gitbook/assets/btc-metrics.PNG)
 
 ### **大事记**
 
@@ -109,9 +107,7 @@ description: 2019年比特币频上热搜，开始走进主流人群的视线，
 
 * **加密货币交易所**，你可以用常规货币交换比特币或 Satoshis（Satoshi是0.0000001 BTC，目前是最小的比特币交易单位），SatoShi就如同BTC中的美分。加密货币交易所有例如Binance, Coinbase, Huobi, Bitfinex 等等。
 
-![](https://ethereum.cn/wp-content/uploads/2019/07/whatisbitcoin.jpg)
-
-
+![](.gitbook/assets/whatisbitcoin.jpg)
 
 * **私人服务**，找到卖家帮助你使用现金交易比特币，但此种方法有一定风险，应视个人情况而定。
 * 通过**销售产品或服务**以赚取比特币，例如文章打赏、游戏等形式。
@@ -177,7 +173,7 @@ description: 2019年比特币频上热搜，开始走进主流人群的视线，
 
 **你的交易确认数：**之前已经提到，在完成交易之前会有一个平均十分钟的延迟。不同钱包的确认数不同。如下表所示，0最低，因此需要交易双方完全的信任，3对于普通的比特币转账来说足够可靠。若是要进行大额支付，最好等到6个确认数之后。
 
-![](https://ethereum.cn/wp-content/uploads/2019/07/confirmationschart-1024x462.jpg)
+![](.gitbook/assets/confirmationschart.jpg)
 
 **政府税收和法规：**政府和地方市政当局要求个人支付所得税，其中或将包括比特币。但是由于比特币的法律地位因国家而异，部分国家仍然禁止使用比特币。2015年，纽约州是第一个颁布比特币法规的州政府，其法规被称为 BitLicense。
 
