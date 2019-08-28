@@ -34,9 +34,7 @@ description: 本文旨在用通俗易懂的形式为非技术读者介绍什么�
 
 截至2019年7月19日
 
-![](https://ethereum.cn/wp-content/uploads/2019/07/eth-metrics.png)
-
-####  
+![](.gitbook/assets/eth-metrics.png)
 
 ### 以太坊大事记
 
@@ -108,11 +106,11 @@ _译者注：当激活智能合约时，相当于是请求整个网络中的所�
 
 智能合约是用于描述计算机代码的用语，可以促进货币、财产、股票或任何具有价值事物的交换。运行在区块链上的智能合约就像一个自动运行的计算机程序，在满足特定条件时自动执行。也是由于智能合约在区块链上自动运行，因此完全按照程序运行，免遭任何审查、宕机、欺诈或第三方干涉的风险。
 
-![](https://ethereum.cn/wp-content/uploads/2019/07/smartcontractexplainer-1.jpg)
+![](.gitbook/assets/smartcontractexplainer%20%281%29.jpg)
 
 虽然所有区块链都具有处理代码的能力，但大多数都受到严格限制。因此以太坊脱颖而出。不受有限的、既定的操作限制，以太坊允许开发者创建他们想要的任何操作。这意味着开发者可以构建任何超出人们想象的应用程序。
 
-译者注：想进一步了解智能合约？继续阅读[**《智能合约初学者详细指南》**](https://ethereum.cn/archives/595)。
+译者注：想进一步了解智能合约？继续阅读[**《智能合约初学者详细指南》**](https://blockdocs.ethereum.cn/zhi-neng-he-yue-chu-xue-zhe)。
 
 ## **以太坊虚拟机（EVM）**
 
