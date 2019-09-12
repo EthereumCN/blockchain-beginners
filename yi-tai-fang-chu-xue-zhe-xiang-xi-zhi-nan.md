@@ -24,6 +24,8 @@ description: 本文旨在用通俗易懂的形式为非技术读者介绍什么�
 
 用最简单的话来说，**以太坊是一个基于区块链技术的开源软件平台，使开发者能够构建和部署去中心化应用程序。**
 
+![](https://fast.wistia.com/embed/medias/gt1ghct4yj/swatch)&lt;/div&gt;
+
 ### **V神三分钟带你走进以太坊**
 
 {% embed url="https://v.qq.com/x/page/a0901bv36o1.html" %}
